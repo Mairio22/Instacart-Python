@@ -4,14 +4,19 @@
 
 ## Objective
 
-Instacart is an online grocery store that operates through an app. Instacart already has very good sales, but they want to uncover more information about their sales patterns.
+To conduct initial and exploratory analysis for Instacart Grocery, a US-based online grocery store that operates through an app. The analysis is to derive insights into Instacart sales patterns, segment customers based on behavioural and demographic profiles to analyse spends, and then create targeted marketing campaigns.
 
-Your task is to perform an initial data and exploratory analysis of some of their data in order to derive insights and suggest strategies for better segmentation based on the provided criteria.
 
 ## Data
 
-Open source data from Instacart and a customer data set created for the purpose of this project.
+Opensource data from 2017 made available by Instacart [here]([url](https://www.instacart.com/datasets/grocery-shopping-2017)).
 
-[Customers Data Set]
+## Tool
 
-“The Instacart Online Grocery Shopping Dataset 2017”
+The project used excel and python. The following libraries were usd in python:
+
+Pandas
+Numpy
+Seaborn
+Matplotlib
+Scipy
