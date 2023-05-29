@@ -9,7 +9,7 @@ To conduct initial and exploratory analysis for Instacart Grocery, a US-based on
 
 ## Data
 
-Opensource data from 2017 made available by Instacart [here]([url](https://www.instacart.com/datasets/grocery-shopping-2017)).
+Opensource data from 2017 made available by Instacart here[https://p8105.com/dataset_instacart.html]
 
 ## Tool
 
