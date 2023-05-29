@@ -14,9 +14,8 @@ Opensource data from 2017 made available by Instacart [here]([url](https://www.i
 ## Tool
 
 The project used excel and python. The following libraries were usd in python:
-
-Pandas
-Numpy
-Seaborn
-Matplotlib
-Scipy
+- Pandas
+* Numpy
++ Seaborn
+- Matplotlib
+- Scipy
