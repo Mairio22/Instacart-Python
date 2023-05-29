@@ -1,6 +1,6 @@
 # Instacart-Python
+![download](https://github.com/Mairio22/Instacart-Python/assets/105998091/57b1190c-8213-4354-98fb-42b51499d704)
 
-![5e8ce3cc664eae0004085464](https://github.com/Mairio22/Instacart-Python/assets/105998091/15499422-e8d7-4166-b529-a9b1313da3cb)
 
 ## Objective
 
